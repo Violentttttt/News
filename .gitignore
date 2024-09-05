@@ -1,0 +1,13 @@
+# Python
+*.pyc
+__pycache__/
+
+# Node
+node_modules/
+npm-debug.log
+
+# React
+build/
+# Virtual environment
+env/
+.venv/

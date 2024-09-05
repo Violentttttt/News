@@ -1,0 +1,516 @@
+1725315149278	geckodriver	INFO	Listening on 127.0.0.1:52816
+1725315149783	mozrunner::runner	INFO	Running command: MOZ_CRASHREPORTER="1" MOZ_CRASHREPORTER_NO_REPORT="1" MOZ_CRASHREPORTER_SHUTDOWN="1" MOZ_NO_REMOTE="1" "/App ... s" "localhost" "-foreground" "-no-remote" "-profile" "/var/folders/wq/mpl4qq3j7dj22y9_ql1ywjqm0000gn/T/rust_mozprofileFFXpdA"
+*** You are running in headless mode.
+console.warn: services.settings: Ignoring preference override of remote settings server
+console.warn: services.settings: Allow by setting MOZ_REMOTE_SETTINGS_DEVTOOLS=1 in the environment
+1725315150004	Marionette	INFO	Marionette enabled
+console.error: "Warning: unrecognized command line flag" "-remote-allow-hosts"
+1725315150203	Marionette	INFO	Listening on port 52825
+WebDriver BiDi listening on ws://127.0.0.1:52817
+1725315150280	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+[GFX1-]: RenderCompositorSWGL failed mapping default framebuffer, no dt
+JavaScript error: https://cdnjs.cloudflare.com/ajax/libs/crypto-js/3.1.2/components/enc-base64-min.js, line 7: ReferenceError: CryptoJS is not defined
+1725315164425	Marionette	INFO	Stopped listening on port 52825
+1725315166814	geckodriver	INFO	Listening on 127.0.0.1:52886
+1725315167329	mozrunner::runner	INFO	Running command: MOZ_CRASHREPORTER="1" MOZ_CRASHREPORTER_NO_REPORT="1" MOZ_CRASHREPORTER_SHUTDOWN="1" MOZ_NO_REMOTE="1" "/App ... s" "localhost" "-foreground" "-no-remote" "-profile" "/var/folders/wq/mpl4qq3j7dj22y9_ql1ywjqm0000gn/T/rust_mozprofileWX6vXr"
+*** You are running in headless mode.
+console.warn: services.settings: Ignoring preference override of remote settings server
+console.warn: services.settings: Allow by setting MOZ_REMOTE_SETTINGS_DEVTOOLS=1 in the environment
+1725315167557	Marionette	INFO	Marionette enabled
+console.error: "Warning: unrecognized command line flag" "-remote-allow-hosts"
+1725315167745	Marionette	INFO	Listening on port 52894
+WebDriver BiDi listening on ws://127.0.0.1:52887
+1725315167822	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+[GFX1-]: RenderCompositorSWGL failed mapping default framebuffer, no dt
+JavaScript error: https://cdnjs.cloudflare.com/ajax/libs/crypto-js/3.1.2/components/enc-base64-min.js, line 7: ReferenceError: CryptoJS is not defined
+1725315171611	Marionette	INFO	Stopped listening on port 52894
+1725315173353	geckodriver	INFO	Listening on 127.0.0.1:52939
+1725315173870	mozrunner::runner	INFO	Running command: MOZ_CRASHREPORTER="1" MOZ_CRASHREPORTER_NO_REPORT="1" MOZ_CRASHREPORTER_SHUTDOWN="1" MOZ_NO_REMOTE="1" "/App ... s" "localhost" "-foreground" "-no-remote" "-profile" "/var/folders/wq/mpl4qq3j7dj22y9_ql1ywjqm0000gn/T/rust_mozprofiledZ7ttH"
+*** You are running in headless mode.
+console.warn: services.settings: Ignoring preference override of remote settings server
+console.warn: services.settings: Allow by setting MOZ_REMOTE_SETTINGS_DEVTOOLS=1 in the environment
+1725315174069	Marionette	INFO	Marionette enabled
+console.error: "Warning: unrecognized command line flag" "-remote-allow-hosts"
+1725315174241	Marionette	INFO	Listening on port 52948
+WebDriver BiDi listening on ws://127.0.0.1:52940
+1725315174262	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+[GFX1-]: RenderCompositorSWGL failed mapping default framebuffer, no dt
+JavaScript error: https://cdnjs.cloudflare.com/ajax/libs/crypto-js/3.1.2/components/enc-base64-min.js, line 7: ReferenceError: CryptoJS is not defined
+1725315178560	Marionette	INFO	Stopped listening on port 52948
+1725352901717	geckodriver	INFO	Listening on 127.0.0.1:56364
+1725352902222	mozrunner::runner	INFO	Running command: MOZ_CRASHREPORTER="1" MOZ_CRASHREPORTER_NO_REPORT="1" MOZ_CRASHREPORTER_SHUTDOWN="1" MOZ_NO_REMOTE="1" "/App ... s" "localhost" "-foreground" "-no-remote" "-profile" "/var/folders/wq/mpl4qq3j7dj22y9_ql1ywjqm0000gn/T/rust_mozprofilenyTsnf"
+*** You are running in headless mode.
+console.warn: services.settings: Ignoring preference override of remote settings server
+console.warn: services.settings: Allow by setting MOZ_REMOTE_SETTINGS_DEVTOOLS=1 in the environment
+1725352902578	Marionette	INFO	Marionette enabled
+console.error: "Warning: unrecognized command line flag" "-remote-allow-hosts"
+1725352902799	Marionette	INFO	Listening on port 56372
+WebDriver BiDi listening on ws://127.0.0.1:56365
+1725352902839	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+[GFX1-]: RenderCompositorSWGL failed mapping default framebuffer, no dt
+1725352922073	Marionette	INFO	Stopped listening on port 56372
+1725403892186	geckodriver	INFO	Listening on 127.0.0.1:62009
+1725403892702	mozrunner::runner	INFO	Running command: MOZ_CRASHREPORTER="1" MOZ_CRASHREPORTER_NO_REPORT="1" MOZ_CRASHREPORTER_SHUTDOWN="1" MOZ_NO_REMOTE="1" "/App ... s" "localhost" "-foreground" "-no-remote" "-profile" "/var/folders/wq/mpl4qq3j7dj22y9_ql1ywjqm0000gn/T/rust_mozprofileeyXdOt"
+*** You are running in headless mode.
+console.warn: services.settings: Ignoring preference override of remote settings server
+console.warn: services.settings: Allow by setting MOZ_REMOTE_SETTINGS_DEVTOOLS=1 in the environment
+1725403892939	Marionette	INFO	Marionette enabled
+console.error: "Warning: unrecognized command line flag" "-remote-allow-hosts"
+1725403893129	Marionette	INFO	Listening on port 62017
+WebDriver BiDi listening on ws://127.0.0.1:62010
+1725403893207	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+[GFX1-]: RenderCompositorSWGL failed mapping default framebuffer, no dt
+JavaScript error: https://cdnjs.cloudflare.com/ajax/libs/crypto-js/3.1.2/components/enc-base64-min.js, line 7: ReferenceError: CryptoJS is not defined
+1725403896805	Marionette	INFO	Stopped listening on port 62017
+JavaScript warning: https://accounts.google.com/gsi/iframe/select?client_id=309019222178-mmncl8tbuid5recbdvo90s1pe2mbci00.apps.googleusercontent.com&ux_mode=popup&ui_mode=card&as=EoGhxqwFRoMfXbGdbX7%2Fjw&is_itp=true&channel_id=679596ff68f1de6e1ef3ce83a13c72dd113a8d64c4ff8467cf2cba44633dc269&origin=https%3A%2F%2Fwww.blackbox.ai, line 270: Script terminated by timeout at:
+_.Uk/<@/_/gsi/_/js/k=gsi.gsi.ru.U4U1GLwxuKQ.O/am=AAAiUcEB/d=1/rs=AF0KOtWOQvJUI4z5sxf-b8Gf5XCHOvaLVw/m=credential_server_library:270:572
+_.Uk@/_/gsi/_/js/k=gsi.gsi.ru.U4U1GLwxuKQ.O/am=AAAiUcEB/d=1/rs=AF0KOtWOQvJUI4z5sxf-b8Gf5XCHOvaLVw/m=credential_server_library:270:469
+_.Vk/<@/_/gsi/_/js/k=gsi.gsi.ru.U4U1GLwxuKQ.O/am=AAAiUcEB/d=1/rs=AF0KOtWOQvJUI4z5sxf-b8Gf5XCHOvaLVw/m=credential_server_library:271:56
+
+1725403902835	geckodriver	INFO	Listening on 127.0.0.1:62153
+1725403903345	mozrunner::runner	INFO	Running command: MOZ_CRASHREPORTER="1" MOZ_CRASHREPORTER_NO_REPORT="1" MOZ_CRASHREPORTER_SHUTDOWN="1" MOZ_NO_REMOTE="1" "/App ... s" "localhost" "-foreground" "-no-remote" "-profile" "/var/folders/wq/mpl4qq3j7dj22y9_ql1ywjqm0000gn/T/rust_mozprofile50fBsF"
+*** You are running in headless mode.
+console.warn: services.settings: Ignoring preference override of remote settings server
+console.warn: services.settings: Allow by setting MOZ_REMOTE_SETTINGS_DEVTOOLS=1 in the environment
+1725403903533	Marionette	INFO	Marionette enabled
+console.error: "Warning: unrecognized command line flag" "-remote-allow-hosts"
+1725403903691	Marionette	INFO	Listening on port 62165
+WebDriver BiDi listening on ws://127.0.0.1:62154
+1725403903713	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+[GFX1-]: RenderCompositorSWGL failed mapping default framebuffer, no dt
+JavaScript error: https://cdnjs.cloudflare.com/ajax/libs/crypto-js/3.1.2/components/enc-base64-min.js, line 7: ReferenceError: CryptoJS is not defined
+1725403907028	Marionette	INFO	Stopped listening on port 62165
+JavaScript warning: https://accounts.google.com/gsi/iframe/select?client_id=309019222178-mmncl8tbuid5recbdvo90s1pe2mbci00.apps.googleusercontent.com&ux_mode=popup&ui_mode=card&as=HHyYsv7e1%2F%2FbswgwSFRoqg&is_itp=true&channel_id=72a45ea8271a3d4b03fb1db8b1ea0eab83acf7f3bad0f543e317113b4525df82&origin=https%3A%2F%2Fwww.blackbox.ai, line 269: Script terminated by timeout at:
+_.Uk/<@/_/gsi/_/js/k=gsi.gsi.ru.U4U1GLwxuKQ.O/am=AAAiQcEB/d=1/rs=AF0KOtUYm8OfNvWnrIERBfBLGypB6QMUbw/m=credential_server_library:269:572
+_.Uk@/_/gsi/_/js/k=gsi.gsi.ru.U4U1GLwxuKQ.O/am=AAAiQcEB/d=1/rs=AF0KOtUYm8OfNvWnrIERBfBLGypB6QMUbw/m=credential_server_library:269:469
+_.Vk/<@/_/gsi/_/js/k=gsi.gsi.ru.U4U1GLwxuKQ.O/am=AAAiQcEB/d=1/rs=AF0KOtUYm8OfNvWnrIERBfBLGypB6QMUbw/m=credential_server_library:270:56
+
+1725403912982	geckodriver	INFO	Listening on 127.0.0.1:62297
+1725403913496	mozrunner::runner	INFO	Running command: MOZ_CRASHREPORTER="1" MOZ_CRASHREPORTER_NO_REPORT="1" MOZ_CRASHREPORTER_SHUTDOWN="1" MOZ_NO_REMOTE="1" "/App ... s" "localhost" "-foreground" "-no-remote" "-profile" "/var/folders/wq/mpl4qq3j7dj22y9_ql1ywjqm0000gn/T/rust_mozprofile3hZJfA"
+*** You are running in headless mode.
+console.warn: services.settings: Ignoring preference override of remote settings server
+console.warn: services.settings: Allow by setting MOZ_REMOTE_SETTINGS_DEVTOOLS=1 in the environment
+1725403913712	Marionette	INFO	Marionette enabled
+console.error: "Warning: unrecognized command line flag" "-remote-allow-hosts"
+1725403913886	Marionette	INFO	Listening on port 62305
+WebDriver BiDi listening on ws://127.0.0.1:62298
+1725403914021	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+[GFX1-]: RenderCompositorSWGL failed mapping default framebuffer, no dt
+1725403917618	Marionette	INFO	Stopped listening on port 62305
+JavaScript warning: https://accounts.google.com/gsi/iframe/select?client_id=309019222178-mmncl8tbuid5recbdvo90s1pe2mbci00.apps.googleusercontent.com&ux_mode=popup&ui_mode=card&as=1MEkQ1U8cjtWnwSH%2BSL1Yw&is_itp=true&channel_id=abb7b85fbca5f55192e61ab646d83e1c9ad5951670590723d60705797c9208f0&origin=https%3A%2F%2Fwww.blackbox.ai, line 269: Script terminated by timeout at:
+_.Uk/<@/_/gsi/_/js/k=gsi.gsi.ru.U4U1GLwxuKQ.O/am=AAAiQcEB/d=1/rs=AF0KOtUYm8OfNvWnrIERBfBLGypB6QMUbw/m=credential_server_library:269:572
+_.Uk@/_/gsi/_/js/k=gsi.gsi.ru.U4U1GLwxuKQ.O/am=AAAiQcEB/d=1/rs=AF0KOtUYm8OfNvWnrIERBfBLGypB6QMUbw/m=credential_server_library:269:469
+_.Vk/<@/_/gsi/_/js/k=gsi.gsi.ru.U4U1GLwxuKQ.O/am=AAAiQcEB/d=1/rs=AF0KOtUYm8OfNvWnrIERBfBLGypB6QMUbw/m=credential_server_library:270:56
+
+1725403942260	geckodriver	INFO	Listening on 127.0.0.1:62521
+1725403942772	mozrunner::runner	INFO	Running command: MOZ_CRASHREPORTER="1" MOZ_CRASHREPORTER_NO_REPORT="1" MOZ_CRASHREPORTER_SHUTDOWN="1" MOZ_NO_REMOTE="1" "/App ... s" "localhost" "-foreground" "-no-remote" "-profile" "/var/folders/wq/mpl4qq3j7dj22y9_ql1ywjqm0000gn/T/rust_mozprofilePeFNLk"
+console.warn: services.settings: Ignoring preference override of remote settings server
+console.warn: services.settings: Allow by setting MOZ_REMOTE_SETTINGS_DEVTOOLS=1 in the environment
+1725403942995	Marionette	INFO	Marionette enabled
+console.error: "Warning: unrecognized command line flag" "-remote-allow-hosts"
+1725403943190	Marionette	INFO	Listening on port 62529
+WebDriver BiDi listening on ws://127.0.0.1:62522
+1725403943265	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+UNSUPPORTED (log once): POSSIBLE ISSUE: unit 1 GLD_TEXTURE_INDEX_2D is unloadable and bound to sampler type (Float) - using zero texture because texture unloadable
+1725403946805	Marionette	INFO	Stopped listening on port 62529
+1725403975606	geckodriver	INFO	Listening on 127.0.0.1:62816
+1725403976122	mozrunner::runner	INFO	Running command: MOZ_CRASHREPORTER="1" MOZ_CRASHREPORTER_NO_REPORT="1" MOZ_CRASHREPORTER_SHUTDOWN="1" MOZ_NO_REMOTE="1" "/App ... s" "localhost" "-foreground" "-no-remote" "-profile" "/var/folders/wq/mpl4qq3j7dj22y9_ql1ywjqm0000gn/T/rust_mozprofile0vRCUH"
+console.warn: services.settings: Ignoring preference override of remote settings server
+console.warn: services.settings: Allow by setting MOZ_REMOTE_SETTINGS_DEVTOOLS=1 in the environment
+1725403976348	Marionette	INFO	Marionette enabled
+console.error: "Warning: unrecognized command line flag" "-remote-allow-hosts"
+1725403976544	Marionette	INFO	Listening on port 62828
+WebDriver BiDi listening on ws://127.0.0.1:62817
+1725403976620	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+UNSUPPORTED (log once): POSSIBLE ISSUE: unit 1 GLD_TEXTURE_INDEX_2D is unloadable and bound to sampler type (Float) - using zero texture because texture unloadable
+JavaScript error: https://cdnjs.cloudflare.com/ajax/libs/crypto-js/3.1.2/components/enc-base64-min.js, line 7: ReferenceError: CryptoJS is not defined
+1725403980214	Marionette	INFO	Stopped listening on port 62828
+1725403986552	geckodriver	INFO	Listening on 127.0.0.1:62960
+1725403987071	mozrunner::runner	INFO	Running command: MOZ_CRASHREPORTER="1" MOZ_CRASHREPORTER_NO_REPORT="1" MOZ_CRASHREPORTER_SHUTDOWN="1" MOZ_NO_REMOTE="1" "/App ... s" "localhost" "-foreground" "-no-remote" "-profile" "/var/folders/wq/mpl4qq3j7dj22y9_ql1ywjqm0000gn/T/rust_mozprofilerstMtm"
+console.warn: services.settings: Ignoring preference override of remote settings server
+console.warn: services.settings: Allow by setting MOZ_REMOTE_SETTINGS_DEVTOOLS=1 in the environment
+1725403987291	Marionette	INFO	Marionette enabled
+console.error: "Warning: unrecognized command line flag" "-remote-allow-hosts"
+1725403987477	Marionette	INFO	Listening on port 62968
+WebDriver BiDi listening on ws://127.0.0.1:62961
+1725403987600	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+UNSUPPORTED (log once): POSSIBLE ISSUE: unit 1 GLD_TEXTURE_INDEX_2D is unloadable and bound to sampler type (Float) - using zero texture because texture unloadable
+JavaScript error: https://cdnjs.cloudflare.com/ajax/libs/crypto-js/3.1.2/components/enc-base64-min.js, line 7: ReferenceError: CryptoJS is not defined
+1725403991376	Marionette	INFO	Stopped listening on port 62968
+1725404076305	geckodriver	INFO	Listening on 127.0.0.1:63456
+1725404076823	mozrunner::runner	INFO	Running command: MOZ_CRASHREPORTER="1" MOZ_CRASHREPORTER_NO_REPORT="1" MOZ_CRASHREPORTER_SHUTDOWN="1" MOZ_NO_REMOTE="1" "/App ... s" "localhost" "-foreground" "-no-remote" "-profile" "/var/folders/wq/mpl4qq3j7dj22y9_ql1ywjqm0000gn/T/rust_mozprofileo7JjtT"
+console.warn: services.settings: Ignoring preference override of remote settings server
+console.warn: services.settings: Allow by setting MOZ_REMOTE_SETTINGS_DEVTOOLS=1 in the environment
+1725404077040	Marionette	INFO	Marionette enabled
+console.error: "Warning: unrecognized command line flag" "-remote-allow-hosts"
+1725404077238	Marionette	INFO	Listening on port 63468
+WebDriver BiDi listening on ws://127.0.0.1:63457
+1725404077321	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+UNSUPPORTED (log once): POSSIBLE ISSUE: unit 1 GLD_TEXTURE_INDEX_2D is unloadable and bound to sampler type (Float) - using zero texture because texture unloadable
+1725404091168	Marionette	INFO	Stopped listening on port 63468
+1725404097593	geckodriver	INFO	Listening on 127.0.0.1:63656
+1725404098113	mozrunner::runner	INFO	Running command: MOZ_CRASHREPORTER="1" MOZ_CRASHREPORTER_NO_REPORT="1" MOZ_CRASHREPORTER_SHUTDOWN="1" MOZ_NO_REMOTE="1" "/App ... s" "localhost" "-foreground" "-no-remote" "-profile" "/var/folders/wq/mpl4qq3j7dj22y9_ql1ywjqm0000gn/T/rust_mozprofileuemBYM"
+console.warn: services.settings: Ignoring preference override of remote settings server
+console.warn: services.settings: Allow by setting MOZ_REMOTE_SETTINGS_DEVTOOLS=1 in the environment
+1725404098332	Marionette	INFO	Marionette enabled
+console.error: "Warning: unrecognized command line flag" "-remote-allow-hosts"
+1725404098528	Marionette	INFO	Listening on port 63664
+WebDriver BiDi listening on ws://127.0.0.1:63657
+1725404098644	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+UNSUPPORTED (log once): POSSIBLE ISSUE: unit 1 GLD_TEXTURE_INDEX_2D is unloadable and bound to sampler type (Float) - using zero texture because texture unloadable
+JavaScript error: https://cdnjs.cloudflare.com/ajax/libs/crypto-js/3.1.2/components/enc-base64-min.js, line 7: ReferenceError: CryptoJS is not defined
+1725404112308	Marionette	INFO	Stopped listening on port 63664
+1725404118013	geckodriver	INFO	Listening on 127.0.0.1:63844
+1725404118530	mozrunner::runner	INFO	Running command: MOZ_CRASHREPORTER="1" MOZ_CRASHREPORTER_NO_REPORT="1" MOZ_CRASHREPORTER_SHUTDOWN="1" MOZ_NO_REMOTE="1" "/App ... s" "localhost" "-foreground" "-no-remote" "-profile" "/var/folders/wq/mpl4qq3j7dj22y9_ql1ywjqm0000gn/T/rust_mozprofileM0dra7"
+console.warn: services.settings: Ignoring preference override of remote settings server
+console.warn: services.settings: Allow by setting MOZ_REMOTE_SETTINGS_DEVTOOLS=1 in the environment
+1725404118749	Marionette	INFO	Marionette enabled
+console.error: "Warning: unrecognized command line flag" "-remote-allow-hosts"
+1725404118946	Marionette	INFO	Listening on port 63852
+WebDriver BiDi listening on ws://127.0.0.1:63845
+1725404119024	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+UNSUPPORTED (log once): POSSIBLE ISSUE: unit 1 GLD_TEXTURE_INDEX_2D is unloadable and bound to sampler type (Float) - using zero texture because texture unloadable
+JavaScript error: https://cdnjs.cloudflare.com/ajax/libs/crypto-js/3.1.2/components/enc-base64-min.js, line 7: ReferenceError: CryptoJS is not defined
+1725404133007	Marionette	INFO	Stopped listening on port 63852
+1725404198230	geckodriver	INFO	Listening on 127.0.0.1:64309
+1725404198749	mozrunner::runner	INFO	Running command: MOZ_CRASHREPORTER="1" MOZ_CRASHREPORTER_NO_REPORT="1" MOZ_CRASHREPORTER_SHUTDOWN="1" MOZ_NO_REMOTE="1" "/App ... s" "localhost" "-foreground" "-no-remote" "-profile" "/var/folders/wq/mpl4qq3j7dj22y9_ql1ywjqm0000gn/T/rust_mozprofileevLstS"
+console.warn: services.settings: Ignoring preference override of remote settings server
+console.warn: services.settings: Allow by setting MOZ_REMOTE_SETTINGS_DEVTOOLS=1 in the environment
+1725404198975	Marionette	INFO	Marionette enabled
+console.error: "Warning: unrecognized command line flag" "-remote-allow-hosts"
+1725404199173	Marionette	INFO	Listening on port 64317
+WebDriver BiDi listening on ws://127.0.0.1:64310
+1725404199247	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+UNSUPPORTED (log once): POSSIBLE ISSUE: unit 1 GLD_TEXTURE_INDEX_2D is unloadable and bound to sampler type (Float) - using zero texture because texture unloadable
+JavaScript error: https://cdnjs.cloudflare.com/ajax/libs/crypto-js/3.1.2/components/enc-base64-min.js, line 7: ReferenceError: CryptoJS is not defined
+1725404213094	Marionette	INFO	Stopped listening on port 64317
+1725404221233	geckodriver	INFO	Listening on 127.0.0.1:64510
+1725404221753	mozrunner::runner	INFO	Running command: MOZ_CRASHREPORTER="1" MOZ_CRASHREPORTER_NO_REPORT="1" MOZ_CRASHREPORTER_SHUTDOWN="1" MOZ_NO_REMOTE="1" "/App ... s" "localhost" "-foreground" "-no-remote" "-profile" "/var/folders/wq/mpl4qq3j7dj22y9_ql1ywjqm0000gn/T/rust_mozprofilehyCMfG"
+console.warn: services.settings: Ignoring preference override of remote settings server
+console.warn: services.settings: Allow by setting MOZ_REMOTE_SETTINGS_DEVTOOLS=1 in the environment
+1725404221976	Marionette	INFO	Marionette enabled
+console.error: "Warning: unrecognized command line flag" "-remote-allow-hosts"
+1725404222175	Marionette	INFO	Listening on port 64518
+WebDriver BiDi listening on ws://127.0.0.1:64511
+1725404222247	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+UNSUPPORTED (log once): POSSIBLE ISSUE: unit 1 GLD_TEXTURE_INDEX_2D is unloadable and bound to sampler type (Float) - using zero texture because texture unloadable
+Exiting due to channel error.
+Exiting due to channel error.
+Exiting due to channel error.
+Exiting due to channel error.
+Exiting due to channel error.
+1725453484663	geckodriver	INFO	Listening on 127.0.0.1:56587
+1725453485185	mozrunner::runner	INFO	Running command: MOZ_CRASHREPORTER="1" MOZ_CRASHREPORTER_NO_REPORT="1" MOZ_CRASHREPORTER_SHUTDOWN="1" MOZ_NO_REMOTE="1" "/App ... s" "localhost" "-foreground" "-no-remote" "-profile" "/var/folders/wq/mpl4qq3j7dj22y9_ql1ywjqm0000gn/T/rust_mozprofilecA6fC9"
+console.warn: services.settings: Ignoring preference override of remote settings server
+console.warn: services.settings: Allow by setting MOZ_REMOTE_SETTINGS_DEVTOOLS=1 in the environment
+1725453485427	Marionette	INFO	Marionette enabled
+console.error: "Warning: unrecognized command line flag" "-remote-allow-hosts"
+1725453485630	Marionette	INFO	Listening on port 56599
+WebDriver BiDi listening on ws://127.0.0.1:56588
+1725453485704	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+UNSUPPORTED (log once): POSSIBLE ISSUE: unit 1 GLD_TEXTURE_INDEX_2D is unloadable and bound to sampler type (Float) - using zero texture because texture unloadable
+1725453501396	Marionette	INFO	Stopped listening on port 56599
+1725453730533	geckodriver	INFO	Listening on 127.0.0.1:57752
+1725453731053	mozrunner::runner	INFO	Running command: MOZ_CRASHREPORTER="1" MOZ_CRASHREPORTER_NO_REPORT="1" MOZ_CRASHREPORTER_SHUTDOWN="1" MOZ_NO_REMOTE="1" "/App ... s" "localhost" "-foreground" "-no-remote" "-profile" "/var/folders/wq/mpl4qq3j7dj22y9_ql1ywjqm0000gn/T/rust_mozprofileQwqBTr"
+console.warn: services.settings: Ignoring preference override of remote settings server
+console.warn: services.settings: Allow by setting MOZ_REMOTE_SETTINGS_DEVTOOLS=1 in the environment
+1725453731289	Marionette	INFO	Marionette enabled
+console.error: "Warning: unrecognized command line flag" "-remote-allow-hosts"
+1725453731494	Marionette	INFO	Listening on port 57760
+WebDriver BiDi listening on ws://127.0.0.1:57753
+1725453731569	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+UNSUPPORTED (log once): POSSIBLE ISSUE: unit 1 GLD_TEXTURE_INDEX_2D is unloadable and bound to sampler type (Float) - using zero texture because texture unloadable
+JavaScript error: https://cdnjs.cloudflare.com/ajax/libs/crypto-js/3.1.2/components/enc-base64-min.js, line 7: ReferenceError: CryptoJS is not defined
+1725453746328	Marionette	INFO	Stopped listening on port 57760
+1725453837426	geckodriver	INFO	Listening on 127.0.0.1:58356
+1725453837948	mozrunner::runner	INFO	Running command: MOZ_CRASHREPORTER="1" MOZ_CRASHREPORTER_NO_REPORT="1" MOZ_CRASHREPORTER_SHUTDOWN="1" MOZ_NO_REMOTE="1" "/App ... s" "localhost" "-foreground" "-no-remote" "-profile" "/var/folders/wq/mpl4qq3j7dj22y9_ql1ywjqm0000gn/T/rust_mozprofileOzOA7M"
+console.warn: services.settings: Ignoring preference override of remote settings server
+console.warn: services.settings: Allow by setting MOZ_REMOTE_SETTINGS_DEVTOOLS=1 in the environment
+1725453838175	Marionette	INFO	Marionette enabled
+console.error: "Warning: unrecognized command line flag" "-remote-allow-hosts"
+1725453838370	Marionette	INFO	Listening on port 58368
+WebDriver BiDi listening on ws://127.0.0.1:58357
+1725453838443	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+UNSUPPORTED (log once): POSSIBLE ISSUE: unit 1 GLD_TEXTURE_INDEX_2D is unloadable and bound to sampler type (Float) - using zero texture because texture unloadable
+JavaScript error: https://cdnjs.cloudflare.com/ajax/libs/crypto-js/3.1.2/components/enc-base64-min.js, line 7: ReferenceError: CryptoJS is not defined
+1725453852398	Marionette	INFO	Stopped listening on port 58368
+1725455032343	geckodriver	INFO	Listening on 127.0.0.1:63418
+1725455032865	mozrunner::runner	INFO	Running command: MOZ_CRASHREPORTER="1" MOZ_CRASHREPORTER_NO_REPORT="1" MOZ_CRASHREPORTER_SHUTDOWN="1" MOZ_NO_REMOTE="1" "/App ... s" "localhost" "-foreground" "-no-remote" "-profile" "/var/folders/wq/mpl4qq3j7dj22y9_ql1ywjqm0000gn/T/rust_mozprofilejNlAnY"
+console.warn: services.settings: Ignoring preference override of remote settings server
+console.warn: services.settings: Allow by setting MOZ_REMOTE_SETTINGS_DEVTOOLS=1 in the environment
+1725455033104	Marionette	INFO	Marionette enabled
+console.error: "Warning: unrecognized command line flag" "-remote-allow-hosts"
+1725455033301	Marionette	INFO	Listening on port 63430
+WebDriver BiDi listening on ws://127.0.0.1:63419
+1725455033374	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+UNSUPPORTED (log once): POSSIBLE ISSUE: unit 1 GLD_TEXTURE_INDEX_2D is unloadable and bound to sampler type (Float) - using zero texture because texture unloadable
+JavaScript error: https://cdnjs.cloudflare.com/ajax/libs/crypto-js/3.1.2/components/enc-base64-min.js, line 7: ReferenceError: CryptoJS is not defined
+Exiting due to channel error.
+Exiting due to channel error.
+Exiting due to channel error.
+Exiting due to channel error.
+[GFX1-]: CompositorBridgeChild receives IPC close with reason=AbnormalShutdown
+Exiting due to channel error.
+Exiting due to channel error.
+1725456416507	geckodriver	INFO	Listening on 127.0.0.1:52840
+1725456417022	mozrunner::runner	INFO	Running command: MOZ_CRASHREPORTER="1" MOZ_CRASHREPORTER_NO_REPORT="1" MOZ_CRASHREPORTER_SHUTDOWN="1" MOZ_NO_REMOTE="1" "/App ... s" "localhost" "-foreground" "-no-remote" "-profile" "/var/folders/wq/mpl4qq3j7dj22y9_ql1ywjqm0000gn/T/rust_mozprofile4GKSDi"
+console.warn: services.settings: Ignoring preference override of remote settings server
+console.warn: services.settings: Allow by setting MOZ_REMOTE_SETTINGS_DEVTOOLS=1 in the environment
+1725456417238	Marionette	INFO	Marionette enabled
+console.error: "Warning: unrecognized command line flag" "-remote-allow-hosts"
+1725456417441	Marionette	INFO	Listening on port 52852
+WebDriver BiDi listening on ws://127.0.0.1:52841
+1725456417523	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+UNSUPPORTED (log once): POSSIBLE ISSUE: unit 1 GLD_TEXTURE_INDEX_2D is unloadable and bound to sampler type (Float) - using zero texture because texture unloadable
+JavaScript error: https://cdnjs.cloudflare.com/ajax/libs/crypto-js/3.1.2/components/enc-base64-min.js, line 7: ReferenceError: CryptoJS is not defined
+Exiting due to channel error.
+Exiting due to channel error.
+Exiting due to channel error.
+Exiting due to channel error.
+Exiting due to channel error.
+Exiting due to channel error.
+1725456462896	geckodriver	INFO	Listening on 127.0.0.1:53152
+1725456463419	mozrunner::runner	INFO	Running command: MOZ_CRASHREPORTER="1" MOZ_CRASHREPORTER_NO_REPORT="1" MOZ_CRASHREPORTER_SHUTDOWN="1" MOZ_NO_REMOTE="1" "/App ... s" "localhost" "-foreground" "-no-remote" "-profile" "/var/folders/wq/mpl4qq3j7dj22y9_ql1ywjqm0000gn/T/rust_mozprofiles2PbDy"
+*** You are running in headless mode.
+console.warn: services.settings: Ignoring preference override of remote settings server
+console.warn: services.settings: Allow by setting MOZ_REMOTE_SETTINGS_DEVTOOLS=1 in the environment
+1725456463619	Marionette	INFO	Marionette enabled
+console.error: "Warning: unrecognized command line flag" "-remote-allow-hosts"
+1725456463793	Marionette	INFO	Listening on port 53160
+WebDriver BiDi listening on ws://127.0.0.1:53153
+1725456463916	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+[GFX1-]: RenderCompositorSWGL failed mapping default framebuffer, no dt
+JavaScript error: https://cdnjs.cloudflare.com/ajax/libs/crypto-js/3.1.2/components/enc-base64-min.js, line 7: ReferenceError: CryptoJS is not defined
+1725456478667	Marionette	INFO	Stopped listening on port 53160
+1725456489924	geckodriver	INFO	Listening on 127.0.0.1:53380
+1725456490438	mozrunner::runner	INFO	Running command: MOZ_CRASHREPORTER="1" MOZ_CRASHREPORTER_NO_REPORT="1" MOZ_CRASHREPORTER_SHUTDOWN="1" MOZ_NO_REMOTE="1" "/App ... s" "localhost" "-foreground" "-no-remote" "-profile" "/var/folders/wq/mpl4qq3j7dj22y9_ql1ywjqm0000gn/T/rust_mozprofilerNiJhT"
+*** You are running in headless mode.
+console.warn: services.settings: Ignoring preference override of remote settings server
+console.warn: services.settings: Allow by setting MOZ_REMOTE_SETTINGS_DEVTOOLS=1 in the environment
+1725456490650	Marionette	INFO	Marionette enabled
+console.error: "Warning: unrecognized command line flag" "-remote-allow-hosts"
+1725456490813	Marionette	INFO	Listening on port 53392
+WebDriver BiDi listening on ws://127.0.0.1:53381
+1725456490935	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+[GFX1-]: RenderCompositorSWGL failed mapping default framebuffer, no dt
+JavaScript error: https://cdnjs.cloudflare.com/ajax/libs/crypto-js/3.1.2/components/enc-base64-min.js, line 7: ReferenceError: CryptoJS is not defined
+1725456507712	Marionette	INFO	Stopped listening on port 53392
+1725456513494	geckodriver	INFO	Listening on 127.0.0.1:53596
+1725456514011	mozrunner::runner	INFO	Running command: MOZ_CRASHREPORTER="1" MOZ_CRASHREPORTER_NO_REPORT="1" MOZ_CRASHREPORTER_SHUTDOWN="1" MOZ_NO_REMOTE="1" "/App ... s" "localhost" "-foreground" "-no-remote" "-profile" "/var/folders/wq/mpl4qq3j7dj22y9_ql1ywjqm0000gn/T/rust_mozprofilezT9Moy"
+*** You are running in headless mode.
+console.warn: services.settings: Ignoring preference override of remote settings server
+console.warn: services.settings: Allow by setting MOZ_REMOTE_SETTINGS_DEVTOOLS=1 in the environment
+1725456514209	Marionette	INFO	Marionette enabled
+console.error: "Warning: unrecognized command line flag" "-remote-allow-hosts"
+1725456514390	Marionette	INFO	Listening on port 53604
+WebDriver BiDi listening on ws://127.0.0.1:53597
+1725456514516	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+[GFX1-]: RenderCompositorSWGL failed mapping default framebuffer, no dt
+1725456545466	addons.xpi	ERROR	System addon update list error SyntaxError: XMLHttpRequest.open: 'http://%(server)s/dummy-system-addons.xml' is not a valid URL.
+1725456565952	Marionette	INFO	Stopped listening on port 53604
+1725483035784	geckodriver	INFO	Listening on 127.0.0.1:64265
+1725483036296	mozrunner::runner	INFO	Running command: MOZ_CRASHREPORTER="1" MOZ_CRASHREPORTER_NO_REPORT="1" MOZ_CRASHREPORTER_SHUTDOWN="1" MOZ_NO_REMOTE="1" "/App ... s" "localhost" "-foreground" "-no-remote" "-profile" "/var/folders/wq/mpl4qq3j7dj22y9_ql1ywjqm0000gn/T/rust_mozprofileQoseux"
+*** You are running in headless mode.
+console.warn: services.settings: Ignoring preference override of remote settings server
+console.warn: services.settings: Allow by setting MOZ_REMOTE_SETTINGS_DEVTOOLS=1 in the environment
+1725483036566	Marionette	INFO	Marionette enabled
+console.error: "Warning: unrecognized command line flag" "-remote-allow-hosts"
+1725483036747	Marionette	INFO	Listening on port 64278
+WebDriver BiDi listening on ws://127.0.0.1:64266
+1725483036829	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+[GFX1-]: RenderCompositorSWGL failed mapping default framebuffer, no dt
+JavaScript error: https://cdnjs.cloudflare.com/ajax/libs/crypto-js/3.1.2/components/enc-base64-min.js, line 7: ReferenceError: CryptoJS is not defined
+1725483051471	Marionette	INFO	Stopped listening on port 64278
+1725483499419	geckodriver	INFO	Listening on 127.0.0.1:50035
+1725483499934	mozrunner::runner	INFO	Running command: MOZ_CRASHREPORTER="1" MOZ_CRASHREPORTER_NO_REPORT="1" MOZ_CRASHREPORTER_SHUTDOWN="1" MOZ_NO_REMOTE="1" "/App ... s" "localhost" "-foreground" "-no-remote" "-profile" "/var/folders/wq/mpl4qq3j7dj22y9_ql1ywjqm0000gn/T/rust_mozprofileI5tBiv"
+*** You are running in headless mode.
+console.warn: services.settings: Ignoring preference override of remote settings server
+console.warn: services.settings: Allow by setting MOZ_REMOTE_SETTINGS_DEVTOOLS=1 in the environment
+1725483500220	Marionette	INFO	Marionette enabled
+console.error: "Warning: unrecognized command line flag" "-remote-allow-hosts"
+1725483500401	Marionette	INFO	Listening on port 50044
+WebDriver BiDi listening on ws://127.0.0.1:50036
+1725483500484	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+[GFX1-]: RenderCompositorSWGL failed mapping default framebuffer, no dt
+JavaScript error: https://cdnjs.cloudflare.com/ajax/libs/crypto-js/3.1.2/components/enc-base64-min.js, line 7: ReferenceError: CryptoJS is not defined
+1725483514541	Marionette	INFO	Stopped listening on port 50044
+1725483704653	geckodriver	INFO	Listening on 127.0.0.1:51251
+1725483705174	mozrunner::runner	INFO	Running command: MOZ_CRASHREPORTER="1" MOZ_CRASHREPORTER_NO_REPORT="1" MOZ_CRASHREPORTER_SHUTDOWN="1" MOZ_NO_REMOTE="1" "/App ... s" "localhost" "-foreground" "-no-remote" "-profile" "/var/folders/wq/mpl4qq3j7dj22y9_ql1ywjqm0000gn/T/rust_mozprofileKWonxi"
+*** You are running in headless mode.
+console.warn: services.settings: Ignoring preference override of remote settings server
+console.warn: services.settings: Allow by setting MOZ_REMOTE_SETTINGS_DEVTOOLS=1 in the environment
+1725483705394	Marionette	INFO	Marionette enabled
+console.error: "Warning: unrecognized command line flag" "-remote-allow-hosts"
+1725483705569	Marionette	INFO	Listening on port 51264
+WebDriver BiDi listening on ws://127.0.0.1:51252
+1725483705691	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+[GFX1-]: RenderCompositorSWGL failed mapping default framebuffer, no dt
+1725483719490	Marionette	INFO	Stopped listening on port 51264
+1725483871507	geckodriver	INFO	Listening on 127.0.0.1:52205
+1725483872025	mozrunner::runner	INFO	Running command: MOZ_CRASHREPORTER="1" MOZ_CRASHREPORTER_NO_REPORT="1" MOZ_CRASHREPORTER_SHUTDOWN="1" MOZ_NO_REMOTE="1" "/App ... s" "localhost" "-foreground" "-no-remote" "-profile" "/var/folders/wq/mpl4qq3j7dj22y9_ql1ywjqm0000gn/T/rust_mozprofileFDnCAq"
+*** You are running in headless mode.
+console.warn: services.settings: Ignoring preference override of remote settings server
+console.warn: services.settings: Allow by setting MOZ_REMOTE_SETTINGS_DEVTOOLS=1 in the environment
+1725483872303	Marionette	INFO	Marionette enabled
+console.error: "Warning: unrecognized command line flag" "-remote-allow-hosts"
+1725483872484	Marionette	INFO	Listening on port 52218
+WebDriver BiDi listening on ws://127.0.0.1:52206
+1725483872567	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+[GFX1-]: RenderCompositorSWGL failed mapping default framebuffer, no dt
+JavaScript error: https://cdnjs.cloudflare.com/ajax/libs/crypto-js/3.1.2/components/enc-base64-min.js, line 7: ReferenceError: CryptoJS is not defined
+1725483886495	Marionette	INFO	Stopped listening on port 52218
+1725484008832	geckodriver	INFO	Listening on 127.0.0.1:52994
+1725484009348	mozrunner::runner	INFO	Running command: MOZ_CRASHREPORTER="1" MOZ_CRASHREPORTER_NO_REPORT="1" MOZ_CRASHREPORTER_SHUTDOWN="1" MOZ_NO_REMOTE="1" "/App ... s" "localhost" "-foreground" "-no-remote" "-profile" "/var/folders/wq/mpl4qq3j7dj22y9_ql1ywjqm0000gn/T/rust_mozprofileAS0nY9"
+console.warn: services.settings: Ignoring preference override of remote settings server
+console.warn: services.settings: Allow by setting MOZ_REMOTE_SETTINGS_DEVTOOLS=1 in the environment
+1725484009565	Marionette	INFO	Marionette enabled
+console.error: "Warning: unrecognized command line flag" "-remote-allow-hosts"
+1725484009762	Marionette	INFO	Listening on port 53007
+WebDriver BiDi listening on ws://127.0.0.1:52995
+1725484009840	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+UNSUPPORTED (log once): POSSIBLE ISSUE: unit 1 GLD_TEXTURE_INDEX_2D is unloadable and bound to sampler type (Float) - using zero texture because texture unloadable
+1725484023667	Marionette	INFO	Stopped listening on port 53007
+1725484384945	geckodriver	INFO	Listening on 127.0.0.1:54892
+1725484385462	mozrunner::runner	INFO	Running command: MOZ_CRASHREPORTER="1" MOZ_CRASHREPORTER_NO_REPORT="1" MOZ_CRASHREPORTER_SHUTDOWN="1" MOZ_NO_REMOTE="1" "/App ... s" "localhost" "-foreground" "-no-remote" "-profile" "/var/folders/wq/mpl4qq3j7dj22y9_ql1ywjqm0000gn/T/rust_mozprofilecLaXwy"
+console.warn: services.settings: Ignoring preference override of remote settings server
+console.warn: services.settings: Allow by setting MOZ_REMOTE_SETTINGS_DEVTOOLS=1 in the environment
+1725484385687	Marionette	INFO	Marionette enabled
+console.error: "Warning: unrecognized command line flag" "-remote-allow-hosts"
+1725484385884	Marionette	INFO	Listening on port 54901
+WebDriver BiDi listening on ws://127.0.0.1:54893
+1725484385959	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+UNSUPPORTED (log once): POSSIBLE ISSUE: unit 1 GLD_TEXTURE_INDEX_2D is unloadable and bound to sampler type (Float) - using zero texture because texture unloadable
+1725484401961	Marionette	INFO	Stopped listening on port 54901
+1725484748309	geckodriver	INFO	Listening on 127.0.0.1:56479
+1725484748827	mozrunner::runner	INFO	Running command: MOZ_CRASHREPORTER="1" MOZ_CRASHREPORTER_NO_REPORT="1" MOZ_CRASHREPORTER_SHUTDOWN="1" MOZ_NO_REMOTE="1" "/App ... s" "localhost" "-foreground" "-no-remote" "-profile" "/var/folders/wq/mpl4qq3j7dj22y9_ql1ywjqm0000gn/T/rust_mozprofileJprnOE"
+console.warn: services.settings: Ignoring preference override of remote settings server
+console.warn: services.settings: Allow by setting MOZ_REMOTE_SETTINGS_DEVTOOLS=1 in the environment
+1725484749062	Marionette	INFO	Marionette enabled
+console.error: "Warning: unrecognized command line flag" "-remote-allow-hosts"
+1725484749262	Marionette	INFO	Listening on port 56488
+WebDriver BiDi listening on ws://127.0.0.1:56480
+1725484749336	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+UNSUPPORTED (log once): POSSIBLE ISSUE: unit 1 GLD_TEXTURE_INDEX_2D is unloadable and bound to sampler type (Float) - using zero texture because texture unloadable
+1725484765745	Marionette	INFO	Stopped listening on port 56488
+1725485239192	geckodriver	INFO	Listening on 127.0.0.1:56801
+1725485239708	mozrunner::runner	INFO	Running command: MOZ_CRASHREPORTER="1" MOZ_CRASHREPORTER_NO_REPORT="1" MOZ_CRASHREPORTER_SHUTDOWN="1" MOZ_NO_REMOTE="1" "/App ... s" "localhost" "-foreground" "-no-remote" "-profile" "/var/folders/wq/mpl4qq3j7dj22y9_ql1ywjqm0000gn/T/rust_mozprofileLTtufo"
+console.warn: services.settings: Ignoring preference override of remote settings server
+console.warn: services.settings: Allow by setting MOZ_REMOTE_SETTINGS_DEVTOOLS=1 in the environment
+1725485240000	Marionette	INFO	Marionette enabled
+console.error: "Warning: unrecognized command line flag" "-remote-allow-hosts"
+1725485240207	Marionette	INFO	Listening on port 56810
+WebDriver BiDi listening on ws://127.0.0.1:56802
+1725485240315	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+UNSUPPORTED (log once): POSSIBLE ISSUE: unit 1 GLD_TEXTURE_INDEX_2D is unloadable and bound to sampler type (Float) - using zero texture because texture unloadable
+JavaScript error: https://cdnjs.cloudflare.com/ajax/libs/crypto-js/3.1.2/components/enc-base64-min.js, line 7: ReferenceError: CryptoJS is not defined
+1725485254823	Marionette	INFO	Stopped listening on port 56810
+1725485356364	geckodriver	INFO	Listening on 127.0.0.1:57013
+1725485356880	mozrunner::runner	INFO	Running command: MOZ_CRASHREPORTER="1" MOZ_CRASHREPORTER_NO_REPORT="1" MOZ_CRASHREPORTER_SHUTDOWN="1" MOZ_NO_REMOTE="1" "/App ... s" "localhost" "-foreground" "-no-remote" "-profile" "/var/folders/wq/mpl4qq3j7dj22y9_ql1ywjqm0000gn/T/rust_mozprofileGflQ4o"
+console.warn: services.settings: Ignoring preference override of remote settings server
+console.warn: services.settings: Allow by setting MOZ_REMOTE_SETTINGS_DEVTOOLS=1 in the environment
+1725485357205	Marionette	INFO	Marionette enabled
+console.error: "Warning: unrecognized command line flag" "-remote-allow-hosts"
+1725485357417	Marionette	INFO	Listening on port 57022
+WebDriver BiDi listening on ws://127.0.0.1:57014
+1725485357493	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+UNSUPPORTED (log once): POSSIBLE ISSUE: unit 1 GLD_TEXTURE_INDEX_2D is unloadable and bound to sampler type (Float) - using zero texture because texture unloadable
+1725485371595	Marionette	INFO	Stopped listening on port 57022
+1725485553852	geckodriver	INFO	Listening on 127.0.0.1:57477
+1725485554374	mozrunner::runner	INFO	Running command: MOZ_CRASHREPORTER="1" MOZ_CRASHREPORTER_NO_REPORT="1" MOZ_CRASHREPORTER_SHUTDOWN="1" MOZ_NO_REMOTE="1" "/App ... s" "localhost" "-foreground" "-no-remote" "-profile" "/var/folders/wq/mpl4qq3j7dj22y9_ql1ywjqm0000gn/T/rust_mozprofileK7vK0S"
+console.warn: services.settings: Ignoring preference override of remote settings server
+console.warn: services.settings: Allow by setting MOZ_REMOTE_SETTINGS_DEVTOOLS=1 in the environment
+1725485554596	Marionette	INFO	Marionette enabled
+console.error: "Warning: unrecognized command line flag" "-remote-allow-hosts"
+1725485554802	Marionette	INFO	Listening on port 57486
+WebDriver BiDi listening on ws://127.0.0.1:57478
+1725485554875	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+UNSUPPORTED (log once): POSSIBLE ISSUE: unit 1 GLD_TEXTURE_INDEX_2D is unloadable and bound to sampler type (Float) - using zero texture because texture unloadable
+JavaScript error: https://cdnjs.cloudflare.com/ajax/libs/crypto-js/3.1.2/components/enc-base64-min.js, line 7: ReferenceError: CryptoJS is not defined
+1725485568819	Marionette	INFO	Stopped listening on port 57486
+1725549069672	geckodriver	INFO	Listening on 127.0.0.1:59800
+1725549070189	mozrunner::runner	INFO	Running command: MOZ_CRASHREPORTER="1" MOZ_CRASHREPORTER_NO_REPORT="1" MOZ_CRASHREPORTER_SHUTDOWN="1" MOZ_NO_REMOTE="1" "/App ... s" "localhost" "-foreground" "-no-remote" "-profile" "/var/folders/wq/mpl4qq3j7dj22y9_ql1ywjqm0000gn/T/rust_mozprofileZMJwbU"
+console.warn: services.settings: Ignoring preference override of remote settings server
+console.warn: services.settings: Allow by setting MOZ_REMOTE_SETTINGS_DEVTOOLS=1 in the environment
+1725549070426	Marionette	INFO	Marionette enabled
+console.error: "Warning: unrecognized command line flag" "-remote-allow-hosts"
+1725549070618	Marionette	INFO	Listening on port 59809
+WebDriver BiDi listening on ws://127.0.0.1:59801
+1725549070689	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+UNSUPPORTED (log once): POSSIBLE ISSUE: unit 1 GLD_TEXTURE_INDEX_2D is unloadable and bound to sampler type (Float) - using zero texture because texture unloadable
+JavaScript error: https://cdnjs.cloudflare.com/ajax/libs/crypto-js/3.1.2/components/enc-base64-min.js, line 7: ReferenceError: CryptoJS is not defined
+1725549085560	Marionette	INFO	Stopped listening on port 59809
+1725549297277	geckodriver	INFO	Listening on 127.0.0.1:60053
+1725549297787	mozrunner::runner	INFO	Running command: MOZ_CRASHREPORTER="1" MOZ_CRASHREPORTER_NO_REPORT="1" MOZ_CRASHREPORTER_SHUTDOWN="1" MOZ_NO_REMOTE="1" "/App ... s" "localhost" "-foreground" "-no-remote" "-profile" "/var/folders/wq/mpl4qq3j7dj22y9_ql1ywjqm0000gn/T/rust_mozprofileY2WDKI"
+console.warn: services.settings: Ignoring preference override of remote settings server
+console.warn: services.settings: Allow by setting MOZ_REMOTE_SETTINGS_DEVTOOLS=1 in the environment
+1725549298016	Marionette	INFO	Marionette enabled
+console.error: "Warning: unrecognized command line flag" "-remote-allow-hosts"
+1725549298226	Marionette	INFO	Listening on port 60063
+WebDriver BiDi listening on ws://127.0.0.1:60054
+1725549298301	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+UNSUPPORTED (log once): POSSIBLE ISSUE: unit 1 GLD_TEXTURE_INDEX_2D is unloadable and bound to sampler type (Float) - using zero texture because texture unloadable
+1725549314385	Marionette	INFO	Stopped listening on port 60063
+1725549758820	geckodriver	INFO	Listening on 127.0.0.1:60421
+1725549759335	mozrunner::runner	INFO	Running command: MOZ_CRASHREPORTER="1" MOZ_CRASHREPORTER_NO_REPORT="1" MOZ_CRASHREPORTER_SHUTDOWN="1" MOZ_NO_REMOTE="1" "/App ... s" "localhost" "-foreground" "-no-remote" "-profile" "/var/folders/wq/mpl4qq3j7dj22y9_ql1ywjqm0000gn/T/rust_mozprofileQ1xUk8"
+console.warn: services.settings: Ignoring preference override of remote settings server
+console.warn: services.settings: Allow by setting MOZ_REMOTE_SETTINGS_DEVTOOLS=1 in the environment
+1725549759632	Marionette	INFO	Marionette enabled
+console.error: "Warning: unrecognized command line flag" "-remote-allow-hosts"
+1725549759840	Marionette	INFO	Listening on port 60430
+WebDriver BiDi listening on ws://127.0.0.1:60422
+1725549759951	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+UNSUPPORTED (log once): POSSIBLE ISSUE: unit 1 GLD_TEXTURE_INDEX_2D is unloadable and bound to sampler type (Float) - using zero texture because texture unloadable
+JavaScript error: https://cdnjs.cloudflare.com/ajax/libs/crypto-js/3.1.2/components/enc-base64-min.js, line 7: ReferenceError: CryptoJS is not defined
+1725549774713	Marionette	INFO	Stopped listening on port 60430
+1725549959888	geckodriver	INFO	Listening on 127.0.0.1:60692
+1725549960407	mozrunner::runner	INFO	Running command: MOZ_CRASHREPORTER="1" MOZ_CRASHREPORTER_NO_REPORT="1" MOZ_CRASHREPORTER_SHUTDOWN="1" MOZ_NO_REMOTE="1" "/App ... s" "localhost" "-foreground" "-no-remote" "-profile" "/var/folders/wq/mpl4qq3j7dj22y9_ql1ywjqm0000gn/T/rust_mozprofileAytTVb"
+console.warn: services.settings: Ignoring preference override of remote settings server
+console.warn: services.settings: Allow by setting MOZ_REMOTE_SETTINGS_DEVTOOLS=1 in the environment
+1725549960713	Marionette	INFO	Marionette enabled
+console.error: "Warning: unrecognized command line flag" "-remote-allow-hosts"
+1725549960920	Marionette	INFO	Listening on port 60701
+WebDriver BiDi listening on ws://127.0.0.1:60693
+1725549961026	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+UNSUPPORTED (log once): POSSIBLE ISSUE: unit 1 GLD_TEXTURE_INDEX_2D is unloadable and bound to sampler type (Float) - using zero texture because texture unloadable
+JavaScript error: https://cdnjs.cloudflare.com/ajax/libs/crypto-js/3.1.2/components/enc-base64-min.js, line 7: ReferenceError: CryptoJS is not defined
+1725549975189	Marionette	INFO	Stopped listening on port 60701
+1725551634403	geckodriver	INFO	Listening on 127.0.0.1:61410
+1725551634922	mozrunner::runner	INFO	Running command: MOZ_CRASHREPORTER="1" MOZ_CRASHREPORTER_NO_REPORT="1" MOZ_CRASHREPORTER_SHUTDOWN="1" MOZ_NO_REMOTE="1" "/App ... s" "localhost" "-foreground" "-no-remote" "-profile" "/var/folders/wq/mpl4qq3j7dj22y9_ql1ywjqm0000gn/T/rust_mozprofileXwLsXf"
+console.warn: services.settings: Ignoring preference override of remote settings server
+console.warn: services.settings: Allow by setting MOZ_REMOTE_SETTINGS_DEVTOOLS=1 in the environment
+1725551635209	Marionette	INFO	Marionette enabled
+console.error: "Warning: unrecognized command line flag" "-remote-allow-hosts"
+1725551635420	Marionette	INFO	Listening on port 61419
+WebDriver BiDi listening on ws://127.0.0.1:61411
+1725551635528	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+UNSUPPORTED (log once): POSSIBLE ISSUE: unit 1 GLD_TEXTURE_INDEX_2D is unloadable and bound to sampler type (Float) - using zero texture because texture unloadable
+JavaScript error: https://cdnjs.cloudflare.com/ajax/libs/crypto-js/3.1.2/components/enc-base64-min.js, line 7: ReferenceError: CryptoJS is not defined
+1725551665390	addons.xpi	ERROR	System addon update list error SyntaxError: XMLHttpRequest.open: 'http://%(server)s/dummy-system-addons.xml' is not a valid URL.
+JavaScript error: resource:///modules/sessionstore/SessionStore.sys.mjs, line 3590: TypeError: this._windows[aWindow.__SSi] is undefined
+1725551673753	Marionette	INFO	Stopped listening on port 61419
+console.error: "Failed to fetch https://spocs.getpocket.com/user:" "NetworkError when attempting to fetch resource."
+console.warn: TopSitesFeed: Failed to fetch data from Contile server: NetworkError when attempting to fetch resource.
+1725551678105	geckodriver	INFO	Listening on 127.0.0.1:61489
+1725551678622	mozrunner::runner	INFO	Running command: MOZ_CRASHREPORTER="1" MOZ_CRASHREPORTER_NO_REPORT="1" MOZ_CRASHREPORTER_SHUTDOWN="1" MOZ_NO_REMOTE="1" "/App ... s" "localhost" "-foreground" "-no-remote" "-profile" "/var/folders/wq/mpl4qq3j7dj22y9_ql1ywjqm0000gn/T/rust_mozprofiledRXkj4"
+console.warn: services.settings: Ignoring preference override of remote settings server
+console.warn: services.settings: Allow by setting MOZ_REMOTE_SETTINGS_DEVTOOLS=1 in the environment
+1725551678856	Marionette	INFO	Marionette enabled
+console.error: "Warning: unrecognized command line flag" "-remote-allow-hosts"
+1725551679052	Marionette	INFO	Listening on port 61498
+WebDriver BiDi listening on ws://127.0.0.1:61490
+1725551679127	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+UNSUPPORTED (log once): POSSIBLE ISSUE: unit 1 GLD_TEXTURE_INDEX_2D is unloadable and bound to sampler type (Float) - using zero texture because texture unloadable
+JavaScript error: https://cdnjs.cloudflare.com/ajax/libs/crypto-js/3.1.2/components/enc-base64-min.js, line 7: ReferenceError: CryptoJS is not defined
+1725551694732	Marionette	INFO	Stopped listening on port 61498
+1725551802155	geckodriver	INFO	Listening on 127.0.0.1:61723
+1725551802669	mozrunner::runner	INFO	Running command: MOZ_CRASHREPORTER="1" MOZ_CRASHREPORTER_NO_REPORT="1" MOZ_CRASHREPORTER_SHUTDOWN="1" MOZ_NO_REMOTE="1" "/App ... s" "localhost" "-foreground" "-no-remote" "-profile" "/var/folders/wq/mpl4qq3j7dj22y9_ql1ywjqm0000gn/T/rust_mozprofileW1atfh"
+console.warn: services.settings: Ignoring preference override of remote settings server
+console.warn: services.settings: Allow by setting MOZ_REMOTE_SETTINGS_DEVTOOLS=1 in the environment
+1725551802952	Marionette	INFO	Marionette enabled
+console.error: "Warning: unrecognized command line flag" "-remote-allow-hosts"
+1725551803162	Marionette	INFO	Listening on port 61732
+WebDriver BiDi listening on ws://127.0.0.1:61724
+1725551803269	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+UNSUPPORTED (log once): POSSIBLE ISSUE: unit 1 GLD_TEXTURE_INDEX_2D is unloadable and bound to sampler type (Float) - using zero texture because texture unloadable
+JavaScript error: https://cdnjs.cloudflare.com/ajax/libs/crypto-js/3.1.2/components/enc-base64-min.js, line 7: ReferenceError: CryptoJS is not defined
+1725551817930	Marionette	INFO	Stopped listening on port 61732
